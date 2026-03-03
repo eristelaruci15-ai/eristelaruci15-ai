@@ -1,55 +1,47 @@
-👋 Hi, I’m Eristela Ruçi  
-Computer Science student passionate about Artificial Intelligence, Java development, and Web Technologies. I enjoy building intelligent, scalable, and user-focused applications — from AI-powered systems to full-stack web platforms. Curious, analytical, and detail-oriented, I love turning ideas into efficient, production-ready solutions.
+# 👋 Hi, I’m Eristela Ruçi  
 
-🌐 Socials:
-LinkedIn: https://www.linkedin.com/in/eristela-ruci-b8525a393  
-GitHub: https://github.com/eristelaruci15-ai  
-Email: eristela.ruci15@gmail.com  
+🎓 Computer Science student passionate about **Artificial Intelligence, Java Development, and Web Technologies**.  
+I enjoy building intelligent, scalable, and privacy-focused systems — from AI-powered applications to full-stack web platforms.  
+Curious, analytical, and always learning, I love turning complex ideas into real-world solutions.
 
-💻 Tech Stack
+---
 
-🧠 Artificial Intelligence & Data
-- Python
-- TensorFlow • Keras • scikit-learn
-- NumPy • Pandas • Matplotlib
-- OpenCV • MediaPipe
-- Machine Learning • Deep Learning • Data Processing
+## 🌐 Socials:
 
-☕ Java & Backend Development
-- Java • OOP • Data Structures • Algorithms
-- System Architecture Design
-- Real-time Data Processing
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eristela-ruci-b8525a393)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:eristela.ruci15@gmail.com)
 
-🌐 Web Development
-- HTML5 • CSS3 • JavaScript
-- Responsive Design
-- Authentication Systems
-- Database Integration
+---
 
-🗄 Databases
-- MySQL • PostgreSQL
+## 💻 Tech Stack:
 
-🛠 Tools & Technologies
-- Git • GitHub
-- IntelliJ IDEA • VS Code
-- Arduino • Cisco Networking
+### 🧠 AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
-🚀 Featured Projects
+### ☕ Java & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge)
 
-🔹 Poliscope – Behavior-Based Focus Monitor  
-Real-time AI computer vision system for engagement detection using OpenCV & MediaPipe.
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🔹 Towards Personalized Healthcare – Smart Contact Lenses  
-AI & IoT-based health monitoring system with Java simulation for biometric data processing.
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-🔹 AutoTrade – Web Car Marketplace  
-Full-stack web platform with authentication system, filtering features, and relational database design.
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-🔹 Automatic Pet Door (BLE & IoT System)  
-Arduino-based smart automation system integrating sensors and secure control logic.
-
-📊 GitHub Stats:
-(Add GitHub Readme Stats badge here)
+---
 
 <!--
 **eristelaruci15-ai/eristelaruci15-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
